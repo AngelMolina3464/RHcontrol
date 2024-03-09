@@ -1,0 +1,24 @@
+.homeContainer {
+  margin: 20px auto;
+  width: 90%;
+  height: 80vh;
+  box-shadow: 0px 0px 4px rgba(85, 94, 97, 0.486);
+  padding: 25px 30px;
+  border-radius: 5px;
+}
+
+.title_Main {
+  font-size: 4rem;
+}
+.title_Sub {
+  font-size: 2.5rem;
+}
+.title_span {
+  font-size: 3.5rem;
+  border: 4px solid rgb(79, 145, 172);
+  border-radius: 4px;
+  padding: 2px;
+}
+.title_info{
+    margin-top: 10px;
+}

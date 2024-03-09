@@ -1,11 +1,12 @@
 import Link from "next/link";
+import "@/components/components_Support/navBar.css";
 
 export default function DirectorioLayout({ children }) {
   return (
     <>
       <div>
 
-        <ul className="navbar_Container">
+        <ul className="subnavBar__Custom">
           <li>
             <Link href="/directorio/addPersonal">Agregar Colaborador</Link>
           </li>

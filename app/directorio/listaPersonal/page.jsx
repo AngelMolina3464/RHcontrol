@@ -5,12 +5,12 @@ export const metadata = {
   description: "En fase de Desarollo",
 };
 
-export default function VerListaCentrosCosto() {
+export default function ListaColaboradores() {
   return (
     <>
       <section className="pageContainer">
-        <h1>Para Ver en Lista los Centros de Costos </h1>
-        <h2>Rh Control</h2>
+        <h1>Lista de Colaboradores </h1>
+        <h2>RRHH Control </h2>
         <h3>Sistemas para el Control de Nomina</h3>
         <h4>En fase de Desarollo</h4>
       </section>
